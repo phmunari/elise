@@ -106,5 +106,3 @@ O arquivo `elise.png` é opcional: caso não esteja presente, o editor continua 
 O projeto foi criado para explorar o desenvolvimento de interfaces gráficas em Python e implementar funcionalidades comuns a editores de texto e código, como gerenciamento de abas, manipulação de arquivos, busca e destaque de sintaxe.
 
 ## Licença
-
-Nenhuma licença foi definida neste repositório. Adicione um arquivo `LICENSE` caso queira estabelecer condições de uso e distribuição.
