@@ -103,6 +103,7 @@ O arquivo `elise.png` é opcional: caso não esteja presente, o editor continua 
 
 ## Objetivo
 
-O projeto foi criado para explorar o desenvolvimento de interfaces gráficas em Python e implementar funcionalidades comuns a editores de texto e código, como gerenciamento de abas, manipulação de arquivos, busca e destaque de sintaxe.
+O projeto foi criado inicialmente como um trabalho de um curso de Python, para explorar o desenvolvimento de interfaces gráficas em Python, e acabou se tornando um pequeno editor de texto multifunção.
 
 ## Licença
+GNU GENERAL PUBLIC LICENSE.
